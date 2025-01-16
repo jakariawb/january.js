@@ -8,3 +8,6 @@ if(salary > 250 && height > 4 && Isbcs > false){
 else{
     console.log('ntry>')
 }
+
+const food = ['maingo', 'apple','banana', 'labu', 'oringe',];
+console.log(food);

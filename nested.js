@@ -10,14 +10,17 @@ else{
     }
      else {
         if(many > 0){
+            
             console.log('tui morey kha')
         }
         if(many > -10){
+
             console.log('ami goriv')
         }
     }
-    if(many < 1000){
-        console.log('ami togomoto goriv na')
+        if(many < 1000){
+
+              console.log('ami togomoto goriv na')
     }
     }
     

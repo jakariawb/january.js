@@ -12,5 +12,7 @@ var bangla = 35;
 var name = ("output:")
 console.log(name)
 // console.log(mathematic +  biology + chenistry + physic + physic +  bangla);
-var total = mathematic +  biology + chenistry + physic + physic +  bangla;
-console.log(total.toFixed(5))
+var total = mathematic +  biology + 
+chenistry + physic + 
+physic +  bangla;
+console.log(total.toFixed(5));

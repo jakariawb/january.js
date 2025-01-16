@@ -24,3 +24,7 @@ else if (age >= 30) {
 else {
     console.log(price)
 }
+
+// Array length
+const numbers = [23,32,4,45,566,67,7,45,];
+console.log(numbers.length);
